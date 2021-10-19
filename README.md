@@ -3,11 +3,10 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate
 - 👏 You can catch me on 
--        i) https://www.facebook.com/shehab91221
--       ii) https://www.hackerrank.com/gmrai81
+-        https://www.facebook.com/shehab91221
+         https://www.hackerrank.com/gmrai81
 
-              <<<============= ALSO =============>>>
-            
+-             <<<============= ALSO =============>>>          
 - 📫 How to reach me "gmrabbi91221@gmail.com" ...
 
 
