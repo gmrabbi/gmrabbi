@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Golam Mostafa Rabbi
+- 👋 Hi, I’m Golam Mostafa Rabby
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate
